@@ -53,6 +53,15 @@
         &+.menu__list-item {
             padding-left: 20px;
         }
+        &.active a{
+            font-weight: 700;
+        }
+    }
+    &__list-phone{
+        display: none;
+    }
+    &__btn{
+        display: none;
     }
 
 }

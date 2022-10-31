@@ -27,6 +27,6 @@
     "not dead"
   ],
   "dependencies": {
-    "fullpage.js": "^4.0.11"
+    "fullpage.js": "^4.0.12"
   }
 }
